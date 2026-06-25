@@ -247,7 +247,7 @@ MILES-X9/
 
 ## 🔧 Hosting Notes
 
-### Pterodactyl / MonkeyBytes panel
+### Pterodactyl panel
 1. Upload the project folder (zip it, extract on the panel).
 2. Set environment variables in the panel's **Startup** tab instead of `.env`.
 3. Set start command to `node index.js`.
