@@ -52,4 +52,3 @@ async function blurCommand(sock, chatId, message, quotedMessage) {
 }
 
 module.exports = blurCommand;
-EOF
