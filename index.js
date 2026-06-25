@@ -127,8 +127,8 @@ async function startBot() {
         browser:                        ['Ubuntu', 'Chrome', '120.0.6099.71'],
         syncFullHistory:                false,
         generateHighQualityLinkPreview: false,
-        keepAliveIntervalMs:            60_000,
-        connectTimeoutMs:               60_000,
+        keepAliveIntervalMs:            25_000,
+        connectTimeoutMs:               90_000,
         defaultQueryTimeoutMs:          60_000,
         getMessage: async (key) => msgCache.get(key.id) || { conversation: '' },
     });
