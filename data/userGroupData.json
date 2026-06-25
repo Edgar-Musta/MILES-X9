@@ -1,0 +1,15 @@
+{
+  "antibadword": {},
+  "antilink": {},
+  "welcome": {
+    "120363410536729274@g.us": {
+      "enabled": true,
+      "message": "Hi {user}, Welcome to {group}.",
+      "channelId": "120363316272696553@newsletter"
+    }
+  },
+  "goodbye": {},
+  "chatbot": {},
+  "warnings": {},
+  "sudo": []
+}
